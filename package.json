@@ -1,0 +1,11 @@
+{
+  "name": "reactivesystem",
+  "version": "1.0.0",
+  "description": "实现一个简易的响应式系统。",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "seconp",
+  "license": "ISC"
+}
